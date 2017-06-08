@@ -6,7 +6,7 @@ target 'hello-gimbal-ios' do
   use_frameworks!
 
   # Pods for hello-gimbal-ios
-  pod 'Gimbal'  
+  pod 'Gimbal'
 
   target 'hello-gimbal-iosTests' do
     inherit! :search_paths
