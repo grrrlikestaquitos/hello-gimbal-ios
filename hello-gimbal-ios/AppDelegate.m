@@ -23,7 +23,7 @@ static NSTimeInterval const NotificationTimeInterval = 30; // Thirty seconds
                               }
                           }];
     
-    [Gimbal setAPIKey:@"COMPANY_API_KEY" options:nil];
+    [Gimbal setAPIKey:@"3a4bc89e-97a7-4d8c-988f-60e31b2e1124" options:nil];
     
     self.beaconManager = [GMBLBeaconManager new];
     self.beaconManager.delegate = self;

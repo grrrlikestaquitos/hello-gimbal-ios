@@ -218,6 +218,7 @@
 				TargetAttributes = {
 					7E437F9F1AC2172200F83FC1 = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 6H3NUKPCZ9;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -492,7 +493,7 @@
 			baseConfigurationReference = 9995E4134BF6BA3B99083982 /* Pods-hello-gimbal-ios.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 6H3NUKPCZ9;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -501,7 +502,7 @@
 				INFOPLIST_FILE = "hello-gimbal-ios/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "hello-gimbal-ios";
+				PRODUCT_BUNDLE_IDENTIFIER = com.givesafe.GiveSafePointofSale;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -511,7 +512,7 @@
 			baseConfigurationReference = 3B50B26982C0397FC3AEA2A6 /* Pods-hello-gimbal-ios.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 6H3NUKPCZ9;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -520,7 +521,7 @@
 				INFOPLIST_FILE = "hello-gimbal-ios/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "hello-gimbal-ios";
+				PRODUCT_BUNDLE_IDENTIFIER = com.givesafe.GiveSafePointofSale;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
